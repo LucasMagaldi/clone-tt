@@ -19,6 +19,13 @@
     border:none;
     margin-left: 20px;
     font-size: 20px;
+    padding-left: 40px ;
+}
+
+.ttbox--input input:active    {
+   border: none;
+   text-decoration: none;
+  
 }
 
 .profile--photo {
