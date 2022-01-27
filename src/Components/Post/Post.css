@@ -33,6 +33,10 @@
     margin-bottom: 20px;
 }
 
+.post__headerText h5 {
+    color: rgb(202, 199, 199);
+}
+
 .post__footer {
     cursor: pointer;
     display: flex;
